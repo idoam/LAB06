@@ -2,3 +2,19 @@ body {
     background-color: #CBE2F6;
     text-align: center;
 }
+
+h1 {
+    text-align: center;
+}
+
+.planet {
+    width: 50%;
+    margin-left: 25%;
+}
+
+p {
+    margin-left: 20%;
+    margin-right: 20%;
+    font-family: candara;
+    font-size: 120%;
+}
